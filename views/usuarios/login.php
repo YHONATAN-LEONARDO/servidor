@@ -118,7 +118,7 @@ sqlsrv_close($conn);
 
 
     <main class="login">
-        <h1 class="t-l">Bienvenido, tu estilo empieza aquí</h1>
+        <h1 class="t-l lli">Bienvenido, tu estilo empieza aquí</h1>
 
         <section class="login-box">
             <h2>Iniciar Sesión</h2>

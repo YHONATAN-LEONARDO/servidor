@@ -720,11 +720,16 @@ main.login {
   align-items: center !important;
 
 }
-
+.body-register{
+  padding-top: 34rem !important;
+}
 @media (max-width: 500px) {
 
    .body-register {
     padding-top: 6rem !important;
     margin-top: 0 !important;
   }
+}
+.lli{
+  margin-top: 0;
 }

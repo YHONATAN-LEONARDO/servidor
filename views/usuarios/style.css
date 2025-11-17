@@ -15,7 +15,7 @@ body {
   font-size: 1.6rem;
   line-height: 1.6;
   background-color: #fff;
-  padding-top: 10rem;
+  padding-top: 15rem;
 }
 
 /* ----------------------------- */
@@ -108,7 +108,7 @@ main.login {
 
 /* Logo en parte inferior */
 .parte-abajo img {
-  width: 55px;
+  width: 13rem;
   height: auto;
   object-fit: contain;
   filter: drop-shadow(0 2px 4px rgba(0,0,0,0.3));
@@ -132,7 +132,7 @@ main.login {
   }
 
   .parte-abajo img {
-    width: 45px;
+    width: 11rem;
   }
 }
 
@@ -608,6 +608,9 @@ main.login {
     background-position: center center;
     background-size: contain;  /* imagen más pequeña y proporcional */
   }
+  .body-register{
+    padding-top: 9rem;
+  }
 }
 /* ===== LOGIN SOLO PARA CELULAR (≤ 500px) ===== */
 @media (max-width: 500px) {
@@ -687,11 +690,11 @@ main.login {
     color: #111;
   }
 
-  .parte-abajo img {
-    width: 45px;
-    height: auto;
-  }
+  
 }
 .login {
   padding: 0 !important;
+}
+.logo-mobil-c{
+  width: 11rem;
 }

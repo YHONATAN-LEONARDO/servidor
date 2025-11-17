@@ -24,7 +24,8 @@ function isActive($file)
         <span></span>
         <span></span>
       </div>
-      <span class="mobile-title">EcoAbrigo</span>
+      <img class="logo-mobil-c mobile-title" src="/public/img/logo.png" alt="">
+
     </div>
 
     <!-- Enlaces principales -->

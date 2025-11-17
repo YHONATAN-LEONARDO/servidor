@@ -167,7 +167,6 @@
         <div>
           <img src="/public/img/logo.png" alt="">
         </div>
-        EcoAbrigo
       </div>
     </main>
 

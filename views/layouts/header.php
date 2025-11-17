@@ -169,6 +169,7 @@ function isActive($file)
   header {
     position: relative;
     width: 100%;
+    margin-bottom: 20rem;
   }
 
   header.with-video {

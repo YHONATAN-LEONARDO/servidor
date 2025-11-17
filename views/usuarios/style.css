@@ -464,6 +464,8 @@ main.login {
     background-size: cover;
     background-position: center;
     margin: 0;
+    padding-top: 6rem !important;
+    margin-top: 0 !important;
   }
 
   /* Caja de login/registro centrada */
@@ -697,4 +699,32 @@ main.login {
 }
 .logo-mobil-c{
   width: 11rem;
+}
+.body-register, .login-body{
+  margin: 0 !important;
+  padding-top: 20rem !important;
+  height: 0 !important;
+}
+/* ==== FIX FINAL PARA LOGIN === */
+.login-body {
+  margin: 0 !important;
+  padding: 0 !important;
+  padding-top: 0 !important;
+  margin-top: 0 !important;
+
+  width: 100% !important;
+
+  display: flex !important;
+  flex-direction: column !important;
+  justify-content: center !important;
+  align-items: center !important;
+
+}
+
+@media (max-width: 500px) {
+
+   .body-register {
+    padding-top: 6rem !important;
+    margin-top: 0 !important;
+  }
 }

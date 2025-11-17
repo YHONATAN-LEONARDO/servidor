@@ -4,6 +4,8 @@ html {
   font-size: 62.5%;
   box-sizing: border-box;
   font-family: "Montserrat", sans-serif;
+    background: linear-gradient(to bottom, #c3c3c3, #fdfdfd,);
+
 }
 
 *,
@@ -2328,4 +2330,7 @@ textarea {
   .btn-secondary {
     margin-left: 0;
   }
+}
+.logo-mobil-c{
+  width: 11rem;
 }

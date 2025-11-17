@@ -340,6 +340,13 @@ function isActive($file)
     .logo {
       width: 10rem;
     }
+     header {
+    margin-bottom:0rem;
+
+  }
+  .t-p{
+    margin-top: 10rem;
+  }
   }
 
 

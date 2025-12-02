@@ -76,7 +76,7 @@ if (!$stmt) die("Error al consultar la base de datos.");
 
 // Logo dinámico
 // Logo desde URL pública
-$logoUrl = "http://3.128.188.195/public/img/logo.png";
+$logoUrl = "http://3.134.103.143/public/img/logo.png";
 
 
 // HTML para PDF

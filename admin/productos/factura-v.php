@@ -34,7 +34,7 @@ if (!$producto) die("Producto no encontrado.");
 $total = (float)$producto['precio'] * $cantidad;
 
 // Logo
-$logoUrl = "http://3.128.188.195/public/img/logo.png";
+$logoUrl = "http://3.134.103.143/public/img/logo.png";
 
 // HTML de la factura
 $html = "

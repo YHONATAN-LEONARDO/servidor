@@ -86,10 +86,10 @@ if (!empty($facturaData['fecha_emision'])) {
       $fechaStr = $facturaData['fecha_emision'];
     }
   }
+  
 }
-
 // Contenido HTML del PDF
-$logoPath = 'http://3.128.188.195/public/img/logo.png';
+$logoPath = 'http://3.134.103.143/public/img/logo.png';
 $logoHtml = '<img src="' . $logoPath . '" style="width:120px; margin-bottom:15px;">';
 
 $html = '<style>
